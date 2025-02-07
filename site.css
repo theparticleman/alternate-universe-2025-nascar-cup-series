@@ -1,11 +1,15 @@
 body {
     background-color: #2F2F2F;
-
     color: white;
+    text-align: center;
 }
 
 
 a {
     color: lightblue;
     text-decoration: none;
+  }
+
+  ul {
+    list-style-type: none;
   }
